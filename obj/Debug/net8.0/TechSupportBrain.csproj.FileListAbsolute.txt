@@ -1,0 +1,6 @@
+/home/user/techsupportbrain01/obj/Debug/net8.0/TechSupportBrain.csproj.AssemblyReference.cache
+/home/user/techsupportbrain01/obj/Debug/net8.0/TechSupportBrain.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/techsupportbrain01/obj/Debug/net8.0/TechSupportBrain.AssemblyInfoInputs.cache
+/home/user/techsupportbrain01/obj/Debug/net8.0/TechSupportBrain.AssemblyInfo.cs
+/home/user/techsupportbrain01/obj/Debug/net8.0/TechSupportBrain.csproj.CoreCompileInputs.cache
+/home/user/techsupportbrain01/obj/Debug/net8.0/TechSupportBrain.MvcApplicationPartsAssemblyInfo.cache
